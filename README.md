@@ -1,6 +1,6 @@
 # Đồ án: Phân tích, quản lý và lưu trữ các mẫu mã độc
 
-Sinh viên: Hoàng Văn Khánh. MSV: AT140422 - Trường Học viện Kỹ thuật mật mã
+Sinh viên: Hoàng Văn Khánh
 
 Giảng viên hướng dẫn: Thầy Nguyễn Nhất Hải - (Khoa KHMT - Trường CNTT&TT - ĐH Bách Khoa Hà Nội)
 
